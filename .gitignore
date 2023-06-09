@@ -361,6 +361,7 @@ $RECYCLE.BIN/
 *.lnk
 
 # 사용자
-.txt
+*.txt
+*.xlsx
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,macos,linux,python,pycharm
